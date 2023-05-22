@@ -1,0 +1,2 @@
+# Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard
+Here is my final project on learning Python for Data Science on Cousera. Here, I analysed Historical stock revenue on Tesla and Gamestop by building a dashboard. I used yfinance to extract stock data and also did a webscrapping style to extract the revenue data from the html file table after using BeautifulSoup and requests.get() to download file.
